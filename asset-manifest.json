@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Projectcommath/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Projectcommath/static/js/main.40a806c8.chunk.js",
+    "main.js.map": "/Projectcommath/static/js/main.40a806c8.chunk.js.map",
+    "runtime-main.js": "/Projectcommath/static/js/runtime-main.ca16024a.js",
+    "runtime-main.js.map": "/Projectcommath/static/js/runtime-main.ca16024a.js.map",
+    "static/js/2.a693db1c.chunk.js": "/Projectcommath/static/js/2.a693db1c.chunk.js",
+    "static/js/2.a693db1c.chunk.js.map": "/Projectcommath/static/js/2.a693db1c.chunk.js.map",
+    "index.html": "/Projectcommath/index.html",
+    "precache-manifest.d0d2bef8b4e943f9921919eb6304bc0d.js": "/Projectcommath/precache-manifest.d0d2bef8b4e943f9921919eb6304bc0d.js",
+    "service-worker.js": "/Projectcommath/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Projectcommath/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a693db1c.chunk.js.LICENSE.txt": "/Projectcommath/static/js/2.a693db1c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Projectcommath/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca16024a.js",
+    "static/js/2.a693db1c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.40a806c8.chunk.js"
+  ]
+}
